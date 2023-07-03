@@ -1,0 +1,6 @@
+argparse
+requests
+tld
+configparser
+typing
+psutil
